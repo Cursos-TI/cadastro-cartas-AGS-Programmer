@@ -12,7 +12,7 @@ int main() {
   int pontosturisticos1 = 20;
   float densidadepopulacional1 = populacao1 / area1;
   float densidadeinversa1 = 1 / densidadepopulacional1;
-  float pibpercapita1 = (pib1 * 10000000) / populacao1;
+  float pibpercapita1 = (pib1 * 1000000) / populacao1;
   float superpoder1 = (long int) populacao1 + area1 + pib1 + pontosturisticos1 + densidadeinversa1 + pibpercapita1;
 
   //Carta 2
@@ -25,7 +25,7 @@ int main() {
   int pontosturisticos2 = 23;
   float densidadepopulacional2 = populacao2 / area2;
   float densidadeinversa2 = 1 / densidadepopulacional2;
-  float pibpercapita2 = (pib2 * 10000000) / populacao2;
+  float pibpercapita2 = (pib2 * 1000000) / populacao2;
   float superpoder2 = (long int) populacao2 + area2 + pib2 + pontosturisticos2 + densidadeinversa2 + pibpercapita2;
 
   //Entrada de dados da Carta 1
