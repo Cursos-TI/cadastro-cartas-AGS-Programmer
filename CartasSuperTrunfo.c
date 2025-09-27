@@ -121,7 +121,7 @@ int main() {
   printf("PIB: Carta 2 venceu (%d)\n", resultadoPIB);
   printf("Pontos Turísticos: Carta 2 venceu (%d)\n", resultadoPontosTuristicos);
   printf("Densidade Populacional: Carta 1 venceu (%d)\n", resultadoDensidadePopulacional);
-  printf("PIB per Capita: Carta 1 venceu (%d)\n", resultadoPIBperCapita);
+  printf("PIB per Capita: Carta 2 venceu (%d)\n", resultadoPIBperCapita);
   printf("Super Poder: Carta 2 venceu (%d)\n", resultadoSuperPoder);
 
   return 0;
